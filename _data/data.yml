@@ -61,6 +61,12 @@ education:
           In my studies I studied: Java, OOP, design patterns, Spring Framework, React js, HTML, CSS, mysql, docker and TDD methodology
           In addition I have a knowledge of microservices architecture (implementation with spring cloud microservices) 
           with Apache Kafka and familiarity with Linux.
+    
+    title: Education
+    info:
+      - degree: Talmud and Torah studies
+        university: yeshivat karney shomron
+        time: 2015 - 2020
 
 
 experiences:
