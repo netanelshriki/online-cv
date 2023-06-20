@@ -114,13 +114,14 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
+      - title: Coupon system 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "designing and developing from scratch a system for buy and sell coupons. 
+                  Server side implementation: Java, Spring (boot, Data Jpa, Web), postgresql.
+                  Client side implementation: React, Redux, js, HTML (JSX), CSS, axios, MUI, and deploying to Heroku."
+
 
       - title: DevStudio
         link: "#"
