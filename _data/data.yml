@@ -117,7 +117,7 @@ projects:
 
     assignments:
       - title: Coupon system 
-        link: "#https://github.com/netanelshriki/CouponSystemBackend"
+        link: "https://github.com/netanelshriki/CouponSystemBackend"
         tagline: |
           "designing and developing from scratch a system for buy and sell coupons. 
            Server side implementation: Java, Spring (boot, Data Jpa, Web), postgresql.
