@@ -118,9 +118,10 @@ projects:
     assignments:
       - title: Coupon system 
         link: "#hook"
-        tagline: "designing and developing from scratch a system for buy and sell coupons. 
-                  Server side implementation: Java, Spring (boot, Data Jpa, Web), postgresql.
-                  Client side implementation: React, Redux, js, HTML (JSX), CSS, axios, MUI, and deploying to Heroku."
+        tagline: |
+          "designing and developing from scratch a system for buy and sell coupons. 
+           Server side implementation: Java, Spring (boot, Data Jpa, Web), postgresql.
+           Client side implementation: React, Redux, js, HTML (JSX), CSS, axios, MUI, and deploying to Heroku."
 
 
       - title: DevStudio
