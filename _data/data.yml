@@ -54,9 +54,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Associate's degree in Fullstack development
+        university: John Bryce College
+        time: 2020 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -100,7 +100,7 @@ experiences:
           I’ve been working with the following technologies:  
             - Java.
             - Spring (boot, Data Jpa, hibernate, web , security).
-            - Security(JWT, Oauth2).
+            - Security (JWT, Oauth2).
             - microservices with AWS (lambdas and AWS services) .
             - Git. 
             - Maven.
