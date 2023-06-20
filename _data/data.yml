@@ -34,14 +34,14 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
+        - item: Traveling
           link:
 
         - item: Painting
           link:
+
+        - item: Solving problems
+          link:          
 
 career-profile:
     title: Career Profile
@@ -68,6 +68,12 @@ education:
         university: yeshivat karney shomron
         time: 2015 - 2020
 
+    title: Education
+    info:
+      - degree: High School Studies
+        university: Lamerchav, Petah Tikva
+        time: 2011 - 2015
+        details: including computers class (C#)
 
 experiences:
     title: Experiences
