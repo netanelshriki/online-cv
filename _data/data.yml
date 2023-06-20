@@ -79,19 +79,19 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Engineer
+        time: 2022 - Present
+        company: nuance communications inc, Hertzelia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          I am currently work as a Software Developer at Nuance Communication (a subsidiary of Microsoft). 
+          In my role, I am responsible for designing and implementing cloud-based solutions using Azure. 
+          I work on a variety of projects that required the use of Java, Spring, and gRPC to build high-performance API's.
+          my work encompasses designing and deploying applications in distributed environments using Helm and K8s, 
+          and using data stores such as Cassandra DB and Elasticsearch to construct intricate search and analytics capabilities.
+          To streamline the deployment and management of cloud-based applications, I employ tools like Harness and Minio.
+          I am proficient in working in English, engaging with colleagues from Europe and North America. 
+          References, including my direct boss and R&D director, are available upon request.
+
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
