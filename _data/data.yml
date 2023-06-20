@@ -183,11 +183,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java & Spring Framework
+      - name: Java (Design patterns, OOP, Threads)
         level: 98%
 
+      - name: Spring Framework (Core, Boot, Data, Microservices, Web, Security)
+        level: 95%
+      
       - name: Database (Mysql, Postgresql, Cassandra-db, ElasticSearch)
-        level: 98%
+        level: 95%
 
       - name: Cloud Services (Azure, AWS)
         level: 90%
@@ -199,7 +202,7 @@ skills:
         level: 85%
 
       - name: Fronted (JavaScript, React , HTML, CSS, Redux)
-        level: 60%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
