@@ -98,13 +98,15 @@ experiences:
         time: 2014 - 2015
         company: Google, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I worked as a backend developer for "cula like" organization (as a freelancer)
+          I’ve been working with the following technologies:  
+            - Java.
+            - Spring (boot, Data Jpa, hibernate, web , security).
+            - Security(JWT, Oauth2).
+            - microservices with AWS (lambdas and AWS services) .
+            - Git. 
+            - Maven.
+            - restAPI.
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
