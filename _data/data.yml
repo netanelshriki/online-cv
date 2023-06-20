@@ -193,9 +193,9 @@ skills:
         level: 90%
 
       - name: DevOps tools (Git, k8s, harness, helm)
-        level: 95%
+        level: 90%
 
-      - name: Ruby on Rails
+      - name: Testing Tools (postman, Mockito, swagger, Junit, spring tests)
         level: 85%
 
       - name: Sketch & Photoshop
