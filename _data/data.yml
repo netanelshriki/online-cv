@@ -62,14 +62,10 @@ education:
           In addition I have a knowledge of microservices architecture (implementation with spring cloud microservices) 
           with Apache Kafka and familiarity with Linux.
     
-    title: Education
-    info:
       - degree: Talmud and Torah studies
         university: yeshivat karney shomron
         time: 2015 - 2020
 
-    title: Education
-    info:
       - degree: High School Studies
         university: Lamerchav, Petah Tikva
         time: 2011 - 2015
