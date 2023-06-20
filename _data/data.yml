@@ -186,7 +186,7 @@ skills:
       - name: Java & Spring Framework
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Database (mysql, postgresql, Cassandra db, ElasticSearch)
         level: 98%
 
       - name: Angular
