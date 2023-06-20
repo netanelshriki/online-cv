@@ -117,11 +117,11 @@ projects:
 
     assignments:
       - title: Coupon system 
-        link: "https://github.com/netanelshriki/CouponSystemBackend"
+        link: https://github.com/netanelshriki/CouponSystemBackend
         tagline: |
-          "designing and developing from scratch a system for buy and sell coupons. 
+          designing and developing from scratch a system for buy and sell coupons. 
            Server side implementation: Java, Spring (boot, Data Jpa, Web), postgresql.
-           Client side implementation: React, Redux, js, HTML (JSX), CSS, axios, MUI, and deploying to Heroku."
+           Client side implementation: React, Redux, js, HTML (JSX), CSS, axios, MUI, and deploying to Heroku.
 
 
       - title: DevStudio
