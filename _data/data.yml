@@ -189,10 +189,10 @@ skills:
       - name: Database (mysql, postgresql, Cassandra db, ElasticSearch)
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Cloud Services (Azure, AWS)
+        level: 90%
 
-      - name: HTML5 & CSS
+      - name: DevOps tools (Git, k8s, harness, helm)
         level: 95%
 
       - name: Ruby on Rails
