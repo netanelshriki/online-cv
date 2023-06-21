@@ -126,8 +126,8 @@ projects:
            Whether you're working with MySQL, PostgreSQL, Oracle, or any other JDBC-supported database.
 
       - title: Curreny Exchange Bot
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: https://github.com/netanelshriki/first-telegram-bot
+        tagline: "A telgram bot, written in java using telegram API, to convert currencies from different countries by simple query"
 
       - title: Delta
         link: "#"
