@@ -116,13 +116,16 @@ projects:
            Client side implementation: React, Redux, js, HTML (JSX), CSS, axios, MUI, and deploying to Heroku.
 
 
-      - title: DevStudio
+      - title: FastOrm
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: SQueryBuilder
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: |
+          "SQueryBuilder is lightweight library that caters to developers using different JDBC drivers.
+           It provides a standardized and consistent approach to building SQL queries, making it compatible with various JDBC driver implementations. 
+           Whether you're working with MySQL, PostgreSQL, Oracle, or any other JDBC-supported database."
 
       - title: Atom
         link: "#"
