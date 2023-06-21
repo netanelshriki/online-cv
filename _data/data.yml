@@ -95,13 +95,11 @@ experiences:
           I worked as a backend developer for "cula like" organization (as a freelancer), 
           as part of the backend team for developing managment platform for Cula Like organization  
           I’ve been working with the following technologies:  
-            - Java.
-            - Spring (boot, Data Jpa, hibernate, web , security).
+            - Java & Spring (boot, Data Jpa, hibernate, web , security).
             - Security (JWT, Oauth2).
-            - microservices with AWS (lambdas and AWS services) .
             - Git. 
             - Maven.
-            - restAPI.
+            - restAPI for the API's.
 
 projects:
     title: Projects
@@ -121,7 +119,7 @@ projects:
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: SQueryBuilder
-        link: "#"
+        link: https://github.com/netanelshriki/squerybuilder
         tagline: |
            I designed and developed SQueryBuilder, a lightweight Java library for building SQL queries.
            It provides a standardized and consistent approach to building SQL queries, making it compatible with various JDBC driver implementations. 
@@ -195,7 +193,7 @@ skills:
       - name: DevOps tools (Git, k8s, harness, helm)
         level: 90%
 
-      - name: Testing Tools (Postman, Mockito, Swagger, Junit, Spring tests)
+      - name: Testing Tools (Postman, BloomRPC, Mockito, Swagger, Junit, Spring tests)
         level: 85%
 
       - name: Fronted (JavaScript, React , HTML, CSS, Redux)
