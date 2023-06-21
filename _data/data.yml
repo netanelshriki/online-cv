@@ -115,8 +115,8 @@ projects:
 
 
       - title: FastOrm
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        # link: "#"
+        tagline: "A Jpa like library to map objects to relatoinal JDBC-supported database - still under development "
 
       - title: SQueryBuilder
         link: https://github.com/netanelshriki/squerybuilder
@@ -125,7 +125,7 @@ projects:
            It provides a standardized and consistent approach to building SQL queries, making it compatible with various JDBC driver implementations. 
            Whether you're working with MySQL, PostgreSQL, Oracle, or any other JDBC-supported database.
 
-      - title: Atom
+      - title: Curreny Exchange Bot
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
