@@ -63,11 +63,11 @@ education:
           In addition I have a knowledge of microservices architecture (implementation with spring cloud microservices) 
           with Apache Kafka and familiarity with Linux.
     
-      - degree: Talmud and Torah studies
+      - degree: Talmud and Torah studies (includ military service as a fighter in Armored Brigade)
         university: yeshivat karney shomron
         time: 2015 - 2020
 
-      - degree: High School Studies (including computers class - C# )
+      - degree: High School Studies (include computers class - C# )
         university: Lamerchav, Petah Tikva
         time: 2011 - 2015
         details: including computers class (C#)
@@ -116,7 +116,7 @@ projects:
 
       - title: FastOrm
         # link: "#"
-        tagline: "A Jpa like library to map objects to relatoinal JDBC-supported database - still under development "
+        tagline: "A Jpa like library to map objects to relatoinal JDBC-supported databases - still under development "
 
       - title: SQueryBuilder
         link: https://github.com/netanelshriki/squerybuilder
@@ -128,10 +128,6 @@ projects:
       - title: Curreny Exchange Bot
         link: https://github.com/netanelshriki/first-telegram-bot
         tagline: "A telgram bot, written in java using telegram API, to convert currencies from different countries by simple query"
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
