@@ -123,9 +123,9 @@ projects:
       - title: SQueryBuilder
         link: "#"
         tagline: |
-          "SQueryBuilder is lightweight library that caters to developers using different JDBC drivers.
+           I designed and developed SQueryBuilder, a lightweight Java library for building SQL queries.
            It provides a standardized and consistent approach to building SQL queries, making it compatible with various JDBC driver implementations. 
-           Whether you're working with MySQL, PostgreSQL, Oracle, or any other JDBC-supported database."
+           Whether you're working with MySQL, PostgreSQL, Oracle, or any other JDBC-supported database.
 
       - title: Atom
         link: "#"
