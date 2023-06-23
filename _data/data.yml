@@ -80,7 +80,7 @@ experiences:
         company: Nuance Communications Inc, Hertzelia
         details: |
           I am currently work as a Software Developer at Nuance Communication (a subsidiary of Microsoft). 
-          In my role, Part of the voice biometrics team, 
+          As part of the voice biometrics team, in my role, 
           I designed and implemented cloud-based solutions (internal library) using Azure. 
           I work on a variety of services that require the use of Java, Spring, and gRPC for building high-performance APIs.
           With an emphasis on the TDD method - unit testing, integration tests, CI/CD pipeline, and working with Git and Artifactory.
