@@ -75,16 +75,17 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Software Engineer
+      - role: Software Developer
         time: 2022 - Present
         company: Nuance Communications Inc, Hertzelia
         details: |
           I am currently work as a Software Developer at Nuance Communication (a subsidiary of Microsoft). 
-          In my role, I am responsible for designing and implementing cloud-based solutions using Azure. 
-          I work on a variety of projects that required the use of Java, Spring, and gRPC to build high-performance API's.
-          my work encompasses designing and deploying applications in distributed environments using Helm and K8s, 
-          and using data stores such as Cassandra DB and Elasticsearch to construct intricate search and analytics capabilities.
-          To streamline the deployment and management of cloud-based applications, I employ tools like Harness and Minio.
+          In my role, Part of the voice biometrics team, 
+          I designed and implemented cloud-based solutions (internal library) using Azure. 
+          I work on a variety of services that require the use of Java, Spring, and gRPC for building high-performance APIs.
+          With an emphasis on the TDD method - unit testing, integration tests, CI/CD pipeline, and working with Git and Artifactory.
+
+As a data store, I used Cassandra DB and Elasticsearch (for intricate search and analytics). I gained experience with deployment to the environment with Kubernetes using Harness and Helm charts.
           I am proficient in working in English, engaging with colleagues from Europe and North America. 
           References, including my direct boss and R&D director, are available upon request.
 
@@ -113,11 +114,6 @@ projects:
            Server side implementation: Java, Spring (boot, Data Jpa, Web), postgresql.
            Client side implementation: React, Redux, js, HTML (JSX), CSS, axios, MUI, and deploying to Heroku.
 
-
-      - title: FastOrm
-        # link: "#"
-        tagline: "A Jpa like library to map objects to relatoinal JDBC-supported databases - still under development "
-
       - title: SQueryBuilder
         link: https://github.com/netanelshriki/squerybuilder
         tagline: |
@@ -128,6 +124,10 @@ projects:
       - title: Curreny Exchange Bot
         link: https://github.com/netanelshriki/first-telegram-bot
         tagline: "A telgram bot, written in java using telegram API, to convert currencies from different countries by simple query"
+
+      # - title: FastOrm
+      #   # link: "#"
+      #   tagline: "A Jpa like library to map objects to relatoinal JDBC-supported databases - still under development "
 
 oss:
     title: OSS Contributions
