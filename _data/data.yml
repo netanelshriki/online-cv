@@ -129,7 +129,7 @@ skills:
       - name: Spring Framework (Core, Boot, Data, Microservices, Web, Security)
         level: 95%
       
-      - name: Database (Mysql, Postgresql, Cassandra-db, ElasticSearch)
+      - name: Database (mysql, postgresql, Cassandra-DB, ElasticSearch)
         level: 95%
 
       - name: Cloud Services (Azure, AWS)
@@ -138,7 +138,7 @@ skills:
       - name: DevOps tools (Git, k8s, harness, helm)
         level: 90%
 
-      - name: Testing Tools (Postman, BloomRPC, Mockito, Swagger, Junit, Spring tests)
+      - name: Testing tools (Postman, BloomRPC, Mockito, Swagger, Junit, Spring tests)
         level: 85%
 
       - name: Fronted (JavaScript, React , HTML, CSS, Redux)
