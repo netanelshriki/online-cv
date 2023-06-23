@@ -75,7 +75,6 @@ experiences:
           With an emphasis on the TDD method - unit testing, integration tests, CI/CD pipeline, and working with Git and Artifactory.
           As a data store, I used Cassandra DB and Elasticsearch (for intricate search and analytics). I gained experience with deployment to the environment with Kubernetes using Harness and Helm charts.
           I am proficient in working in English, engaging with colleagues from Europe and North America. 
-          References, including my direct boss (Product Owner) and R&D director, are available upon request.
 
       - role: Software Developer
         time: 2021 - 2022
