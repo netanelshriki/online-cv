@@ -30,18 +30,7 @@ sidebar:
           level: Fluent
 
 
-
-    interests:
-      title: Interests
-      info:
-        - item: Traveling
-          link:
-
-        - item: Painting
-          link:
-
-        - item: Solving problems
-          link:          
+      
 
 career-profile:
     title: Career Profile
@@ -120,7 +109,7 @@ projects:
            It provides a standardized and consistent approach to building SQL queries, making it compatible with various JDBC driver implementations. 
            Whether you're working with MySQL, PostgreSQL, Oracle, or any other JDBC-supported database.
 
-      - title: Curreny Exchange Bot
+      - title: Currency convertor - telegram bot
         link: https://github.com/netanelshriki/first-telegram-bot
         tagline: "A telgram bot, written in java using telegram API, to convert currencies from different countries by simple query"
 
@@ -128,24 +117,6 @@ projects:
       #   # link: "#"
       #   tagline: "A Jpa like library to map objects to relatoinal JDBC-supported databases - still under development "
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 skills:
